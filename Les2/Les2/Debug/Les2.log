@@ -1,0 +1,5 @@
+﻿  Config.cpp
+c:\users\jesse van vliet\documents\visual studio 2015\projects\les2\les2\config.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse van vliet\documents\visual studio 2015\projects\les2\les2\config.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Les2.vcxproj -> C:\Users\Jesse van Vliet\documents\visual studio 2015\Projects\Les2\Debug\Les2.exe
+  Les2.vcxproj -> C:\Users\Jesse van Vliet\documents\visual studio 2015\Projects\Les2\Debug\Les2.pdb (Full PDB)

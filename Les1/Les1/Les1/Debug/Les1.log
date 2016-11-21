@@ -1,8 +1,0 @@
-﻿  main.cpp
-d:\users\jesse\documents\github\heavy-oop-advanced\les1\les1\les1\main.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Transactie.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  Bankrekening.cpp
-  Les1.vcxproj -> D:\Users\Jesse\Documents\GitHub\Heavy-OOP-Advanced\Les1\Les1\Debug\Les1.exe
-  Les1.vcxproj -> D:\Users\Jesse\Documents\GitHub\Heavy-OOP-Advanced\Les1\Les1\Debug\Les1.pdb (Full PDB)
