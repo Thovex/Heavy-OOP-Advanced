@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jesse\documents\github\heavy-oop-advanced\huiswerk 1\les1\les1\les1\main.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Les1.vcxproj -> C:\Users\Jesse\Documents\GitHub\Heavy-OOP-Advanced\Huiswerk 1\Les1\Les1\Debug\Les1.exe
+  Les1.vcxproj -> C:\Users\Jesse\Documents\GitHub\Heavy-OOP-Advanced\Huiswerk 1\Les1\Les1\Debug\Les1.pdb (Full PDB)
