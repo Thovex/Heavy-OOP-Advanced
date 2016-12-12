@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jesse\documents\github\heavy-oop-advanced\les5\stlalgorithm\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Jesse\Documents\GitHub\Heavy-OOP-Advanced\Huiswerk 5\STL Algorithm\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Jesse\Documents\GitHub\Heavy-OOP-Advanced\Huiswerk 5\STL Algorithm\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
